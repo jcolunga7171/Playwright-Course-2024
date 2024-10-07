@@ -1,0 +1,9 @@
+API TEST 1 creating pet with ID: 11060
+TEST 1 {
+  id: 11060,
+  category: { id: 0, name: 'string' },
+  name: 'American Pit Bull Terrier',
+  photoUrls: [ 'string' ],
+  tags: [ { id: 0, name: 'string' } ],
+  status: 'available'
+}

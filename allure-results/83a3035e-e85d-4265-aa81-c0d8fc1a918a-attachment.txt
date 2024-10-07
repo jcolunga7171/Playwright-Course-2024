@@ -1,0 +1,9 @@
+API TEST 2 looking for pet with ID: 11946
+TEST 2 {
+  id: 11946,
+  category: { id: 0, name: 'string' },
+  name: 'Chinese Crested Dog',
+  photoUrls: [ 'string' ],
+  tags: [ { id: 0, name: 'string' } ],
+  status: 'available'
+}
